@@ -6,4 +6,9 @@ os registrando e permitindo que eles enxerguem os outros microserviços, facilit
 
 <p>Esse microserviço é o responsavel por configurar o Eureka Discovery Server, definindo sua porta e definindo configurações de acesso à interface web, como por exemplo, exigindo usuario e senha.</p>
 
-
+## Tecnologias
+- Java 17
+- Spring Boot 3
+- Spring Cloud
+- Eureka Discory Server
+- Spring Security
